@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/zancheema/spring-oauth2
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/zancheema/react-oauth2
